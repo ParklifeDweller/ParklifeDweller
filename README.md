@@ -12,4 +12,8 @@ $${\large\color{#58A6FF}\mathcal{SIGN\space MY\space ATA\space PLZPZZL}}$$
 <div align="center">
 <img width="250" height="251" alt="damon" src="https://github.com/user-attachments/assets/7768b295-f061-466b-abbd-bf29636e986d" />
 </div>
-
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://kittinanx.com" alt="Spotify Profile Card">
+  </a>
+</p>
