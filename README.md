@@ -13,3 +13,4 @@ $${\large\color{#58A6FF}\mathcal{SIGN\space MY\space ATA\space PLZPZZL}}$$
 <img width="250" height="251" alt="damon" src="https://github.com/user-attachments/assets/7768b295-f061-466b-abbd-bf29636e986d" />
 </div>
 
+this is a wip, please nono judge yea.. 
