@@ -1,7 +1,9 @@
 
 $${\large\color{#58A6FF}\mathcal{Hello\space everyone!\space My\space name\space is\space Damon.}}$$
 
-<h3 align="center"><a href="https://atabook.org">While you're here,, sign my guestbook!</a></h3>
+<h3 align="center" style="color: #58A6FF;">
+  While you're here,, sign my <a href="https://parklifedweller.atabook.org/" style="color: #58A6FF; text-decoration: underline;">guestbook!</a>
+</h3>
 
 <br>
 
