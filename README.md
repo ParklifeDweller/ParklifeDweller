@@ -3,11 +3,8 @@
 
 $${\large\color{#58A6FF}\mathcal{Hello\space everyone!\space My\space name\space is\space Damon.}}$$
 
-<a href="https://parklifedweller.atabook.org">
-  <img src="https://demolab.com" alt="SIGN MY ATA PLZPZZL">
-</a>
-
-<br>
+$${\large\color{#58A6FF}\mathcal{SIGN\space MY\space ATA\space PLZPZZL}}$$
+[( Click here to sign my atabook!!!! )](https://parklifedweller.atabook.org)
 
 
 
