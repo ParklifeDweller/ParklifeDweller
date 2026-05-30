@@ -1,11 +1,11 @@
 
 $${\large\color{#58A6FF}\mathcal{Hello\space everyone!\space My\space name\space is\space Damon.}}$$
 
+### [While you're here,, sign my guestbook!](https://atabook.org)
+
 <br>
 
-<a href="https://atabook.org">
-  <img src="https://shields.io" alt="Sign My Guestbook">
-</a>
+
 
 <br><br>
 <div align="center">
