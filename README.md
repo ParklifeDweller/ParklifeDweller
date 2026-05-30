@@ -4,9 +4,11 @@ $${\large\color{#58A6FF}\mathcal{While\space you're\space here,,\space sign\spac
 
 <div align="center">
 <img width="250" height="251" alt="damon" src="https://github.com/user-attachments/assets/7768b295-f061-466b-abbd-bf29636e986d" />
-
-$$\large\color{#58A6FF}\text{════════════════════════════════════════════════════════════}}$$
-$$\large\color{#58A6FF}\text{✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ .}$$
-$$\large\color{#58A6FF}\text{︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹}$$
-
 </div>
+
+```diff
+@@ ═════════════════════════════════════════════════════════════ @@
+@@ ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　 @@
+@@ ︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹ @@
+```
+
