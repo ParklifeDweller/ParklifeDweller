@@ -14,6 +14,4 @@ $${\large\color{#58A6FF}\mathcal{SIGN\space MY\space ATA\space PLZPZZL}}$$
 </div>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://kittinanx.com" alt="Spotify Profile Card">
-  </a>
-</p>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zb6wf2mebwjbxbcfae4ze7puxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
